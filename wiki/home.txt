@@ -1,0 +1,14 @@
+Welcome to the Log-PHP wiki!
+
+I am Romain Daquin, french developer [[Romain Daquin, website](http://rdaquin.fr)].
+
+***
+
+I often found in the situation of needing to use a log in web development, PHP in particular.
+
+I just set up my own class to use simple and basic logs.
+
+My script creates and updates a text file, which contains the logs. Two possible formats:
+* Date - Title - Description
+* Date - Description
+

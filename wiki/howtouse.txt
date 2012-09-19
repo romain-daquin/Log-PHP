@@ -1,0 +1,10 @@
+It's very simple.
+
+Required :
+* PHP5
+
+Load the class in your code
+`required("class/log.class.php");`
+
+Instantiate Log
+`$log = new Log();`
